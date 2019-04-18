@@ -43,6 +43,7 @@ body{
     border: 2px solid black;
     transform: translateX(-120vw);
     background-color: gray;
+    transition: 0.5s;
     
 }
 
@@ -70,7 +71,6 @@ body{
 
 .transition{
     transform: translateX(0);
-    transition: 0.5s;
 }
 
 h3{
